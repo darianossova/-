@@ -11,5 +11,5 @@
 
 
 # Ссылки на организационные моменты
-[https://miro.com/app/board/uXjVPBtyM_k=/][Визуализация на доске Miro]
-[Презентация защиты]:https://docs.google.com/presentation/d/1LKk0pAqUm0s1ooprF1DWJzaSecYhvkXMV7IeIpj6Igo/edit#slide=id.g1b730abe62b_0_14 
+[Визуализация на доске Miro](https://miro.com/app/board/uXjVPBtyM_k=/)
+[Презентация защиты](ttps://docs.google.com/presentation/d/1LKk0pAqUm0s1ooprF1DWJzaSecYhvkXMV7IeIpj6Igo/edit#slide=id.g1b730abe62b_0_14)
