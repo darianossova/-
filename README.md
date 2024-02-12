@@ -10,6 +10,6 @@
 И код на языке R для подсчета Хи-квадрат тестов в файле "chi-squared-test.md"
 
 
-# Ссылки на организационные маоменты
-(https://miro.com/app/board/uXjVPBtyM_k=/"Визуализация на доске Miro")
-(https://docs.google.com/presentation/d/1LKk0pAqUm0s1ooprF1DWJzaSecYhvkXMV7IeIpj6Igo/edit#slide=id.g1b730abe62b_0_14"Презентация защиты")
+# Ссылки на организационные моменты
+(https://miro.com/app/board/uXjVPBtyM_k=/ "Визуализация на доске Miro")
+(https://docs.google.com/presentation/d/1LKk0pAqUm0s1ooprF1DWJzaSecYhvkXMV7IeIpj6Igo/edit#slide=id.g1b730abe62b_0_14 "Презентация защиты")
